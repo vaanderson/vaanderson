@@ -25,8 +25,8 @@
   <a href="//wa.me/5531996269230" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5531996269230"/></a>
 
- <a href="https://www.linkedin.com/in/vanderson-soares-bbbb6a207" alt="LinkdIn">
-  <img src="https://img.shields.io/badge/-LinkdIn-25d366?style=flat-square&labelColor=25d366&logo=linkdin&logoColor=white&link=https://www.linkedin.com/in/vanderson-soares-bbbb6a207"/></a>
+ <a href="https://www.linkedin.com/in/vanderson-soares-bbbb6a207" alt="LinkdIn"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanderson-soares-bbbb6a207"/></a>
 
 </a>
 </p>  
