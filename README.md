@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Vanderson Soares">
 
 <p align="left"> 
-  Olá meu nome é Vanderson Soares, <strong>sou desenvolvedor front-end. Atuando atualmente com as stacks React, Typescript e</strong>.<br>
-  Estou cursando Ciências da Computação.
+  Olá meu nome é Vanderson Soares, <strong>sou desenvolvedor front-end. Atuando atualmente com as stacks React, Typescript e Node.</strong>.<br>
+  Estou cursando Análise e desenvolvimento de sistemas.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5, CSS3, JavaScript, PHP e Python.</strong>
+  🦄 Linguagens: <strong>HTML5, CSS3, JavaScript, PHP e Typescript..</strong>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Como entrar em contato: ⤵️
 </p>
 
 <p align="left">
