@@ -1,0 +1,210 @@
+{
+    "editor.fontFamily": "Jetbrains Mono",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Min Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.compactFolders": false,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "extensions.ignoreRecommendations": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "breadcrumbs.enabled": true,
+    "editor.parameterHints.enabled": false,
+    "editor.formatOnSave": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "javascript.suggest.autoImports": true,
+    "typescript.suggest.autoImports": true,
+    "tabnine.experimentalAutoImports": true,
+    "terminal.integrated.fontSize": 14,
+    "editor.tabSize": 2,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 26,
+    "editor.semanticHighlighting.enabled": false,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit",
+        "source.fixAll.eslint": "explicit"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    "files.associations": {
+        ".sequelizerc": "javascript",
+        ".stylelintrc": "json",
+        ".prettierrc": "json",
+        "*.tsx": "typescriptreact",
+        ".env": "dotenv",
+        ".env.production": "dotenv",
+        ".env.example": "dotenv"
+    },
+    "typescript.tsserver.log": "off",
+    "material-icon-theme.activeIconPack": "nest",
+    "material-icon-theme.folders.associations": {
+        "navigations": "kubernetes",
+        "infra": "app",
+        "entities": "class",
+        "domain": "class",
+        "schemas": "class",
+        "typeorm": "database",
+        "repositories": "mappings",
+        "http": "container",
+        "migrations": "tools",
+        "modules": "components",
+        "implementations": "core",
+        "dtos": "typescript",
+        "fakes": "mock",
+        "websockets": "pipe",
+        "protos": "pipe",
+        "grpc": "pipe",
+        "providers": "include",
+        "subscribers": "messages",
+        "useCases": "controller",
+        "kafka": "scripts",
+        "mappers": "meta",
+        "_shared": "shared",
+        "eslint-config": "tools",
+        "kube": "kubernetes"
+    },
+    "material-icon-theme.files.associations": {
+        "ormconfig.json": "database",
+        "tsconfig.json": "tune",
+        "*.proto": "3d",
+        "*.webpack.js": "webpack"
+    },
+    "editor.suggestSelection": "first",
+    "terminal.integrated.showExitAlert": false,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "symbols.hidesExplorerArrows": false,
+    "editor.minimap.enabled": true,
+    "workbench.activityBar.orientation": "vertical",
+    "docker.extension.enableComposeLanguageServer": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "biome.suggestInstallingGlobally": false,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+    "chat.tools.autoApprove": true,
+    "chat.agent.maxRequests": 250,
+    "[prisma]": {
+        "editor.defaultFormatter": "ajmnz.prisma-import"
+    },
+    "chat.tools.terminal.autoApprove": {
+        "rm": false,
+        "rmdir": false,
+        "del": false,
+        "kill": true,
+        "curl": false,
+        "wget": false,
+        "eval": false,
+        "chmod": true,
+        "chown": true,
+        "/^Remove-Item\\b/i": true,
+        "Remove-Item": true,
+        "taskkill": false,
+        "npx": true,
+        "npm run lint:fix": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "npx prettier --write": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "npx prettier": true,
+        "npm list": true,
+        "npm install": true,
+        "npm run build": true,
+        "Copy-Item": true
+    },
+    "chat.tools.global.autoApprove": true,
+    "files.eol": "\n",
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+        },
+        "zsh": {
+            "path": "/usr/bin/zsh",
+            "args": [
+                "-l"
+            ]
+        },
+        "fish": {
+            "path": "fish"
+        },
+        "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+        },
+        "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+        },
+        "bash (2)": {
+            "path": "/usr/bin/bash"
+        }
+    },
+    "docker.extension.dockerEngineAvailabilityPrompt": false,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash",
+            "icon": "terminal-git-bash"
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "chat.viewSessions.orientation": "stacked",
+    "typescript.experimental.useTsgo": true,
+    "chatgpt.localeOverride": "pt-BR",
+    "github.copilot.nextEditSuggestions.eagerness": "low"
+}
